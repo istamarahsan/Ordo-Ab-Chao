@@ -1,3 +1,4 @@
+[![6.png](https://i.postimg.cc/h48G4L9H/6.png)](https://postimg.cc/V56wDbZR)
 ## Overview
 
 Interactive school art project to help me learn Python Turtle and Tkinter GUI. Premise is a very simple algorithm that accepts one integer input to create some surprisingly unique patterns.
