@@ -11,4 +11,4 @@ Interactive school art project to help me learn Python Turtle and Tkinter GUI. P
 
 Ahsan Istamar - istamarahsan@gmail.com
 
-Project Link: [https://github.com/istamarahsan/Ordo-Ab-Chao](https://github.com/istamarahsan/Ordo-Ab-Chao)
+Project Carrd: [https://order-out-of-chaos.carrd.co/](https://order-out-of-chaos.carrd.co/)
